@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CharityChain</string>
+    <string name="app_tagline">Empowering Giving, Changing Lives</string>
+    <string name="app_description">Join our community of givers and make a real difference</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+</resources>
